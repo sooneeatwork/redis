@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WSVD/QxEJkgvRBCVcBR+V7vS87R2mOhK/gNbAD3vACGIqCPsoHwlztTRK7ZIjeU7+fDmoDYBpEdha+wpjzWmFg==",
+  "success": true,
+  "projectFilePath": "F:\\Train\\redis\\redis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yang Soon\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Yang Soon\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\Yang Soon\\.nuget\\packages\\stackexchange.redis\\2.7.27\\stackexchange.redis.2.7.27.nupkg.sha512",
+    "C:\\Users\\Yang Soon\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
